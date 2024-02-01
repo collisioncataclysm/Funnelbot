@@ -15,7 +15,7 @@ click==8.1.3
 configparser==5.2.0
 constantly==15.1.0
 cookies==2.2.1
-cryptography==3.4.7
+cryptography==42.0.2
 decorator==5.1.1
 dicttoxml==1.7.4
 docker==5.0.3
@@ -47,7 +47,7 @@ parameterized==0.8.1
 pathlib2==2.3.7.post1
 pbr==5.8.1
 pep8==1.7.1
-Pillow==9.1.0
+Pillow==10.2.0
 psutil==5.9.0
 pyaml==21.10.1
 ruamel.yaml==0.17.21
