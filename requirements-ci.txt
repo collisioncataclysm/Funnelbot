@@ -75,7 +75,7 @@ singledispatch==3.7.0
 six==1.16.0
 snowballstemmer==2.2.0
 SQLAlchemy==1.4.36
-sqlparse==0.4.2
+sqlparse==0.5.4
 termcolor==1.1.0
 toml==0.10.2
 towncrier==21.9.0
@@ -85,7 +85,7 @@ txaio==22.2.1
 txrequests==0.9.6
 unidiff==0.7.3
 webcolors==1.11.1
-Werkzeug==2.1.2
+Werkzeug==3.1.4
 wrapt==1.14.1
 xmltodict==0.12.0
 zope.interface==5.4.0
